@@ -2,7 +2,7 @@
 
 I am currently an aspiring software developer passionate about building web applications and automating workflows.
 
-##About Me
+# About Me
 I consider myself a conscientious, careful worker with excellent attention to detail and a careful yet critical eye, a key skill in coding, where one single error can mean disaster. I enjoy building complexity and trying new functions and methods for different skills in my work, learning along the way and becoming more proficient both academically and professionally in my work ethic.
 
 - 🔭 Currently working on **front-end frameworks like Dart/Flutter**.
