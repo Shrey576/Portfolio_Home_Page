@@ -29,5 +29,5 @@ A personal portfolio website to showcase my work and skills
 - [AI in Careers and Job Applications: A Double-Edged Sword](https://blogs.reading.ac.uk/careers/ai-in-careers-and-job-applications/)
 
 ## My Online Portfolio
-- [Click Here: ](https://shrey576.github.io/Portfolio/)
+- [Click Here: ](https://shrey576.github.io/Portfolio_Home_Page/)
   
