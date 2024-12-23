@@ -30,6 +30,7 @@ A personal portfolio website to showcase my work and skills
 ## Blog Posts
 - [AI in Careers and Job Applications: A Double-Edged Sword](https://blogs.reading.ac.uk/careers/ai-in-careers-and-job-applications/)
 - [Machine Learning Hybridisation in Stock Prediction](https://cnn-lstmhybridstockpred.hashnode.dev/cnn-lstm-hybridisation-in-sp500-stock-prediction)
+- [Unleashing Power of High Frequency Trading with Real-time AI Systems](https://cnn-lstmhybridstockpred.hashnode.dev/unleashing-the-power-of-high-frequency-trading-with-real-time-ai-systems)
 
 ## My Online Portfolio
 - [Click Here: ](https://shrey576.github.io/Portfolio_Home_Page/)
